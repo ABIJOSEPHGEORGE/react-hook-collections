@@ -28,6 +28,8 @@ function MyComponent() {
 
 ```
 
+Git Repo : https://github.com/ABIJOSEPHGEORGE/react-hook-collections
+
 License
 React Hooks Collection is licensed under the MIT License. See the LICENSE file for more information.
 
