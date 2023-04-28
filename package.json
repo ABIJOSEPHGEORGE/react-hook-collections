@@ -1,0 +1,30 @@
+{
+  "name": "react-hook-collections",
+  "version": "1.16.0",
+  "description": "React Hooks Pro is a package that is having custom hooks for reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "UseScrollPosition.jsx",
+    "README.md"
+  ],
+  "keywords": [
+    "react-hooks-pro",
+    "react-hooks",
+    "react-custom-hook",
+    "react-scroll",
+    "react-scroll-hook",
+    "react-hook-collections"
+  ],
+  "author": "Abin George",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
