@@ -4,7 +4,7 @@ A collection of useful custom React hooks.
 
 ## Installation
 
-To install React Hooks Pro, you can use NPM:
+To install React Hooks Collection, you can use NPM:
 
 ```bash
 npm i react-hook-collections
