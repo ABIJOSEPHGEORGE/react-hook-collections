@@ -9,8 +9,8 @@
   "files": [
     "index.js",
     "UseScrollPosition.jsx",
-    "UseFetch",
-    "GetAndDecode",
+    "UseFetch.jsx",
+    "GetAndDecode.jsx",
     "README.md"
   ],
   "keywords": [
