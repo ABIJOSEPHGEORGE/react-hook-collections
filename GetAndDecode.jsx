@@ -1,6 +1,6 @@
 import jwtDecode from 'jwt-decode'
 
-function GetAndDecode({key}){
+function GetAndDecode(key){
     const keyItem = JSON.stringify(localStorage.getItem(key))
     return jwtDecode(keyItem)
 }
