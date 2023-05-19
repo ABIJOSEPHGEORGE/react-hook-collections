@@ -1,6 +1,6 @@
 {
   "name": "react-hook-collections",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "React Hooks Pro is a package that is having custom hooks for reactjs",
   "main": "index.js",
   "scripts": {
