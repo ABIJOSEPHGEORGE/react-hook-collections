@@ -15,6 +15,7 @@ Hooks
 UseScrollPosition()
 This hook tracks the current scroll position of the window and returns the value as a number.
 
+
 Example usage:
 import { UseScrollPosition } from 'react-hook-collections';
 
@@ -24,6 +25,20 @@ function MyComponent() {
   return (
     <div>My Component</div>
   );
+}
+
+GetAndDecode()
+This hook help you to decode a jwt token from localStorage.
+
+Example usage:
+import {GetAndDecode} from 'react-hook-collections';
+
+function MyComponent(){
+  const decoded = GetAndDecode("tokenkey"); // pass the token key name
+  console.log(decode); // prints the token decoded information
+  return (
+    <div>My Component</div>
+  )
 }
 
 ```
